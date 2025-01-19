@@ -2,6 +2,8 @@ Credit Card Fraud Detection: A Machine Learning Approach
 
 1. Introduction
 
+   https://www.google.com/search?q=credit+card+fraud&sca_esv=24235c341b27bb72&udm=2&biw=1440&bih=812&sxsrf=ADLYWIKiUbi7JMd4YQJO5-YKwXckD878eQ%3A1737294418168&ei=UgKNZ5zyCe2hhbIP1pS7kQ8&ved=0ahUKEwic46iF9oGLAxXtUEEAHVbKLvIQ4dUDCBE&uact=5&oq=credit+card+fraud&gs_lp=EgNpbWciEWNyZWRpdCBjYXJkIGZyYXVkMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjIE1DABFiND3ABeACQAQCYAUGgAaUCqgEBNbgBA8gBAPgBAZgCBqACugLCAgoQABiABBhDGIoFwgIGEAAYBxgemAMAiAYBkgcBNqAH7hw&sclient=img#vhid=dy6EsLfPfkY7FM&vssid=mosaic
+
 Credit card fraud poses a significant financial threat to both individuals and institutions. This project aims to develop and evaluate a machine learning model for effectively detecting fraudulent credit card transactions using a publicly available dataset.
 
 2. Dataset
